@@ -58,13 +58,13 @@
       "symbol": "PCP.B",
       "price": "173",
       "volume": "29.165",
-      "variation": "-2,81%"
+      "variation": "-3,81%"
     },
     {
       "symbol": "PGR",
       "price": "178",
       "volume": "4.866",
-      "variation": "-0,56%"
+      "variation": "-1,56%"
     },
     {
       "symbol": "PIV.B",
@@ -82,19 +82,19 @@
       "symbol": "RST",
       "price": "805,68",
       "volume": "3.062",
-      "variation": "-1,75%"
+      "variation": "-2,75%"
     },
     {
       "symbol": "RST.B",
       "price": "568,5",
       "volume": "3.439",
-      "variation": "-0,27%"
+      "variation": "-1,27%"
     },
     {
       "symbol": "SVS",
       "price": "1.550",
       "volume": "1.377",
-      "variation": "-2,21%"
+      "variation": "-3,21%"
     },
     {
       "symbol": "TDV.D",
@@ -106,7 +106,7 @@
       "symbol": "TPG",
       "price": "10,58",
       "volume": "54.723",
-      "variation": "-1,31%"
+      "variation": "-2,31%"
     },
     {
       "symbol": "VNA.B",
@@ -136,7 +136,7 @@
       "symbol": "ABC.A",
       "price": "2.690",
       "volume": "558",
-      "variation": "-0,07%"
+      "variation": "-1,07%"
     },
     {
       "symbol": "ARC.A",
@@ -184,7 +184,7 @@
       "symbol": "CCR",
       "price": "8.999",
       "volume": "127",
-      "variation": "-0,01%"
+      "variation": "-1,01%"
     },
     {
       "symbol": "CGQ",
@@ -230,7 +230,7 @@
     }
   ],
   "marketStatus": "CERRADO",
-  "marketDate": "13-11-2026",
-  "capturedAt": "2026-11-13T23:11:42.130Z",
+  "marketDate": "14-11-2026",
+  "capturedAt": "2026-11-14T18:42:49.618Z",
   "source": "https://www.bolsadecaracas.com/"
 }
