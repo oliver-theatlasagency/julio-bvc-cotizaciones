@@ -1,7 +1,7 @@
 name: Captura diaria BVC
 on:
   schedule:
-    - cron: '55 12 * * *'
+    - cron: '55 12 * * 1-5'
   workflow_dispatch:
     inputs:
       test:
