@@ -8,16 +8,8 @@ try {
   const page = await browser.newPage();
   const response = await page.goto(source, { waitUntil: 'domcontentloaded', timeout: 60000 });
   if (!response || !response.ok()) throw new Error(`Página no disponible: ${response?.status()}`);
-  try {
-    // Carousel elements may exist before the active slide becomes visible.
-    await page.waitForSelector('[data-precio-style]', { state: 'attached', timeout: 90000 });
-  } catch (error) {
-    const title = await page.title();
-    if (/just a moment|challenge|access denied|captcha/i.test(title)) throw error;
-    const retry = await page.reload({ waitUntil: 'domcontentloaded', timeout: 60000 });
-    if (!retry || !retry.ok()) throw new Error(`Página no disponible: ${retry?.status()}`);
-    await page.waitForSelector('[data-precio-style]', { state: 'attached', timeout: 90000 });
-  }
+  const title = await page.title();
+  if (/just a moment|challenge|access denied|captcha/i.test(title)) throw new Error('La fuente muestra una página de bloqueo.');
   const end = Date.now() + duration * 1000;
   let last = null;
   do {
