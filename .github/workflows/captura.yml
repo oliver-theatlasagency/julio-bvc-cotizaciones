@@ -1,5 +1,7 @@
 name: Captura diaria BVC
 on:
+  schedule:
+    - cron: '30 14 * * 1-5'
   workflow_dispatch:
     inputs:
       test:
@@ -22,12 +24,6 @@ jobs:
           node-version: '22'
       - run: npm install --no-save playwright@1.56.1
       - run: npx playwright install --only-shell chromium
-      - name: Esperar las 9:00 de Caracas
-        if: github.event_name == 'schedule'
-        run: |
-          target=$(date -u -d 'today 13:00' +%s)
-          now=$(date -u +%s)
-          if [ "$now" -lt "$target" ]; then sleep "$((target - now))"; fi
       - name: Capturar cinta pública
         run: node capture.mjs
         env:
