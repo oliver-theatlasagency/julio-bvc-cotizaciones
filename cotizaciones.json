@@ -3,228 +3,228 @@
     {
       "symbol": "GMC.B",
       "price": "8.000",
-      "volume": "50",
+      "volume": "1.071",
       "variation": "0%"
     },
     {
       "symbol": "GZL",
       "price": "1.250",
-      "volume": "134",
+      "volume": "13.269",
       "variation": "0%"
     },
     {
       "symbol": "ICP.B",
       "price": "115,3",
-      "volume": "296",
+      "volume": "631",
       "variation": "0%"
     },
     {
       "symbol": "IVC.A",
       "price": "1.400",
-      "volume": "39",
+      "volume": "50",
       "variation": "0%"
     },
     {
       "symbol": "IVC.B",
       "price": "820",
-      "volume": "1.342",
-      "variation": "-5,65%"
+      "volume": "57",
+      "variation": "0%"
     },
     {
       "symbol": "MPA",
-      "price": "196",
-      "volume": "13.134",
-      "variation": "-2%"
+      "price": "200",
+      "volume": "3.566",
+      "variation": "2,04%"
     },
     {
       "symbol": "MTC.B",
       "price": "134",
-      "volume": "529",
+      "volume": "50.778",
       "variation": "0%"
     },
     {
       "symbol": "MVZ.A",
-      "price": "16.889",
-      "volume": "815",
-      "variation": "16,16%"
+      "price": "15.250",
+      "volume": "128",
+      "variation": "-10,7%"
     },
     {
       "symbol": "MVZ.B",
-      "price": "9.000",
-      "volume": "352",
-      "variation": "-4,74%"
+      "price": "9.200",
+      "volume": "936",
+      "variation": "2,22%"
     },
     {
       "symbol": "PCP.B",
       "price": "167",
-      "volume": "6.414",
-      "variation": "-1,6%"
+      "volume": "20.114",
+      "variation": "0%"
     },
     {
       "symbol": "PGR",
-      "price": "175",
-      "volume": "9.911",
-      "variation": "0,29%"
+      "price": "176",
+      "volume": "3.335",
+      "variation": "0,57%"
     },
     {
       "symbol": "PIV.B",
       "price": "51.899",
-      "volume": "51",
+      "volume": "7",
       "variation": "0%"
     },
     {
       "symbol": "PTN",
-      "price": "1.680",
-      "volume": "271",
-      "variation": "0%"
+      "price": "1.640",
+      "volume": "582",
+      "variation": "-3,38%"
     },
     {
       "symbol": "RST",
-      "price": "815",
-      "volume": "8.798",
-      "variation": "-2,21%"
+      "price": "775",
+      "volume": "4.072",
+      "variation": "-5,91%"
     },
     {
       "symbol": "RST.B",
-      "price": "555",
-      "volume": "7.383",
-      "variation": "-4,48%"
+      "price": "556",
+      "volume": "81.137",
+      "variation": "0,18%"
     },
     {
       "symbol": "SVS",
       "price": "1.517",
-      "volume": "15.066",
+      "volume": "4.407",
       "variation": "0%"
     },
     {
       "symbol": "TDV.D",
       "price": "1.379",
-      "volume": "2.782",
-      "variation": "-1,07%"
+      "volume": "3.071",
+      "variation": "0%"
     },
     {
       "symbol": "TPG",
       "price": "10,9",
-      "volume": "125.912",
+      "volume": "32.290",
       "variation": "0%"
     },
     {
       "symbol": "VNA.B",
       "price": "65",
-      "volume": "786",
+      "volume": "1.120",
       "variation": "0%"
     },
     {
       "symbol": "IBC",
-      "price": "9.746,22",
+      "price": "9.187,43",
       "volume": "0",
       "variation": "0%"
     },
     {
       "symbol": "I.FINANCIE",
-      "price": "19.453,35",
+      "price": "18.165,46",
       "volume": "0",
       "variation": "0%"
     },
     {
       "symbol": "I.INDUSTR",
-      "price": "3.283,89",
+      "price": "3.241,74",
       "volume": "0",
       "variation": "0%"
     },
     {
       "symbol": "ABC.A",
       "price": "2.700",
-      "volume": "357",
+      "volume": "793",
       "variation": "0%"
     },
     {
       "symbol": "ARC.B",
       "price": "1.300",
-      "volume": "8",
+      "volume": "5",
       "variation": "0%"
     },
     {
       "symbol": "BNC",
-      "price": "238",
-      "volume": "3.912.269",
-      "variation": "-2,86%"
+      "price": "237,45",
+      "volume": "111.107",
+      "variation": "-1,23%"
     },
     {
       "symbol": "BPV",
-      "price": "3.788,97",
-      "volume": "24.122",
-      "variation": "-2,33%"
+      "price": "3.350,5",
+      "volume": "5.181",
+      "variation": "-12,57%"
     },
     {
       "symbol": "BVCC",
-      "price": "920",
-      "volume": "57.893",
-      "variation": "-0,95%"
+      "price": "940",
+      "volume": "96.205",
+      "variation": "2,17%"
     },
     {
       "symbol": "BVL",
-      "price": "2.070",
-      "volume": "1.044",
-      "variation": "-1,72%"
+      "price": "2.067,99",
+      "volume": "2.498",
+      "variation": "-1,1%"
     },
     {
       "symbol": "CCP.B",
-      "price": "698",
-      "volume": "676",
-      "variation": "0%"
+      "price": "680",
+      "volume": "750",
+      "variation": "-3,58%"
     },
     {
       "symbol": "CCR",
       "price": "8.957,66",
-      "volume": "146",
+      "volume": "5",
       "variation": "0%"
     },
     {
       "symbol": "CGQ",
       "price": "2.273",
-      "volume": "70",
+      "volume": "2",
       "variation": "0%"
     },
     {
       "symbol": "CRM.A",
       "price": "735",
-      "volume": "657",
+      "volume": "605",
       "variation": "0%"
     },
     {
       "symbol": "DOM",
       "price": "1.085",
-      "volume": "234",
+      "volume": "1.101",
       "variation": "0%"
     },
     {
       "symbol": "EFE",
-      "price": "190",
-      "volume": "3.905",
-      "variation": "0%"
+      "price": "210",
+      "volume": "2.487",
+      "variation": "10,53%"
     },
     {
       "symbol": "ENV",
       "price": "1.200",
-      "volume": "1.144",
-      "variation": "0,42%"
+      "volume": "1.090",
+      "variation": "0%"
     },
     {
       "symbol": "FNC",
       "price": "3.000",
-      "volume": "230",
-      "variation": "0,67%"
+      "volume": "72",
+      "variation": "0%"
     },
     {
       "symbol": "FNV",
       "price": "82,75",
-      "volume": "1.865",
+      "volume": "2.430",
       "variation": "0%"
     }
   ],
   "marketStatus": "CERRADO",
-  "marketDate": "26-11-2026",
-  "capturedAt": "2026-11-26T23:15:29.871Z",
+  "marketDate": "27-11-2026",
+  "capturedAt": "2026-11-27T22:54:59.650Z",
   "source": "https://www.bolsadecaracas.com/"
 }
